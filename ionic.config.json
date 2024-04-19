@@ -1,0 +1,8 @@
+{
+  "name": "MarvelHero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7c2ff599"
+}
