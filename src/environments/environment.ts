@@ -3,8 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  MARVEL_API:'https://gateway.marvel.com:443/v1/public/characters'
 };
+
+export const API_KEY = 'f98703d01a701161b7107c57653729ac'
 
 /*
  * For easier debugging in development mode, you can import the following file

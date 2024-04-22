@@ -1,0 +1,20 @@
+@font-face {
+    font-family: WhizBang;
+    src: url(../../../assets/fonts/WhizBang_Bold.ttf) format("opentype");
+  }
+
+.avatar{
+    margin: 10px;
+    height: 80px;
+    width: 80px;
+}
+.id_marvel_hero {
+    color: gray;
+    font-size: 11px !important;
+    margin-bottom: 11px;
+}
+
+ion-label{
+    font-family: 'WhizBang', 'arial', sans-serif !important;
+    font-size: 12px !important;
+  }

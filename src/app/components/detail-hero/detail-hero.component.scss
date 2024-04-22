@@ -1,0 +1,53 @@
+ion-grid {
+  --ion-grid-padding: 20px;
+}
+
+ion-row {
+  border: solid 1px #474a4a6b;
+  height: 60px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+ion-col {
+  background-color: #242526cf;
+  //border: solid 1px #ffffffa4;
+  color: #ffffffa4;
+  text-align: left;
+}
+
+ion-label {
+  font-family: "WhizBang", "arial", sans-serif;
+  font-size: 12px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 150px;
+  width: 150px;
+}
+
+.avatar-full-screen {
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  height: 320px;
+  width: 320px;
+}
+
+.information {
+  background-color: #121212;
+}
+
+.pointer-cursor:hover {
+  cursor: pointer;
+}
+
